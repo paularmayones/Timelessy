@@ -1,0 +1,17 @@
+.btn-brown {
+  font-family: 'Montserrat', sans-serif;
+  font-style: italic;
+  background-color: #DECCCC ;
+  color: white;
+  font-size: 15px;
+  padding: 10px 20px;
+  border-radius: 2px;
+  letter-spacing: 0.5px;
+  text-decoration: none !important;
+}
+
+  .btn-brown:hover {
+  background-color: #4C2719;
+  color: white;
+}
+
